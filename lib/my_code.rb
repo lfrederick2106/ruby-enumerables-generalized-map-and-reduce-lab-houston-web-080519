@@ -3,6 +3,7 @@ def map(array)
   end
   
   def array.each {|n| n}
+    return array
   end
   
 end
