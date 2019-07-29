@@ -1,4 +1,4 @@
-def map(source_array){ |n| n * -1}
+def map(array){ |n| n * -1}
 end
 
 def map(source_array)
